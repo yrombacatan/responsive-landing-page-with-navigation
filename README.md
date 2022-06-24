@@ -27,8 +27,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://github.com/yrombacatan/responsive-landing-page-with-navigation)
-- Live Site URL: [Add live site URL here](https://responsive-landing-page-with-navigation.vercel.app/)
+- Solution URL: [Visit on Github](https://github.com/yrombacatan/responsive-landing-page-with-navigation)
+- Live Site URL: [Visit on Vercel](https://responsive-landing-page-with-navigation.vercel.app/)
 
 ### Built with
 
@@ -41,5 +41,5 @@ Users should be able to:
 
 ## Author
 
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yrombacatan)
-- LinkedIn - [@yourusername](https://www.linkedin.com/in/jerome-bacatan-0697ab12b/)
+- Frontend Mentor - [@yrombacatan](https://www.frontendmentor.io/profile/yrombacatan)
+- LinkedIn - [@jerome-bacatan](https://www.linkedin.com/in/jerome-bacatan-0697ab12b/)
